@@ -51,6 +51,8 @@ This project demonstrates a robust client-server communication setup using Pytho
 ## Dependencies
 Ensure Python 3.x is installed along with the required libraries:
 - cryptography
-- pickle (standard library)
-- threading (standard library)
-- time (standard library)
+- pickle
+- threading 
+- time 
+- socket
+- hashlib
