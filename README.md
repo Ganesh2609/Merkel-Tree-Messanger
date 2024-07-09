@@ -48,6 +48,8 @@ This project demonstrates a robust client-server communication setup using Pytho
    
 5. Follow the on-screen prompts to send messages or files between clients within the same subnet.
 
+6. ** Don't forget to change your IP address in both the client and server file before running the code. **
+
 ## Dependencies
 Ensure Python 3.x is installed along with the required libraries:
 - cryptography
